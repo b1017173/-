@@ -2,8 +2,10 @@
 \addvspace {10\jsc@mpt }
 \addvspace {10\jsc@mpt }
 \addvspace {10\jsc@mpt }
+\contentsline {table}{\numberline {4.1}{\ignorespaces 推定を行う雰囲気}}{11}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {table}{\numberline {5.1}{\ignorespaces 遺伝的アルゴリズムの設定}}{15}{}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{16}{}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces 特徴量として採用する統計量と算出式}}{16}{}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces 遺伝的アルゴリズムの設定}}{18}{}%
 \addvspace {10\jsc@mpt }
+\contentsline {table}{\numberline {6.1}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{20}{}%
 \addvspace {10\jsc@mpt }
