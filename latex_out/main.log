@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.0.0-u1.28-220214-2.6 (utf8.uptex) (TeX Live 2022) (preloaded format=uplatex 2022.6.28)  31 JAN 2023 05:58
+This is e-upTeX, Version 3.141592653-p4.0.0-u1.28-220214-2.6 (utf8.uptex) (TeX Live 2022) (preloaded format=uplatex 2022.6.28)  31 JAN 2023 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -361,13 +361,13 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [4
+
+])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- (./chapters/introduction.tex [0
-
-]
+ (./chapters/introduction.tex [0]
 第1章
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 1.
@@ -415,40 +415,40 @@ File: figs/tweet_image.jpg Graphic file (type bmp)
 ]
 File: figs/speaker_split.png Graphic file (type bmp)
 <figs/speaker_split.png>
- [15] [16] [17]) (./chapters/evaluate_estimation_model.tex [18]
+ [15] [16] (./tab/features_with_statistics.tex) (./tab/features_with_comparative_quantities.tex) [17] [18] [19] [20]) (./chapters/evaluate_estimation_model.tex [21]
 第6章
-[19
+[22
 
-]) (./chapters/conclusion.tex [20]
+]) (./chapters/conclusion.tex [23]
 第7章
-) (./acknowledgment.tex [21
+) (./acknowledgment.tex [24
 
-]) (./publications.tex [22
+]) (./publications.tex [25
 
-]) (./bibliography.tex [23
+]) (./bibliography.tex [26
 
-] [24
+] [27
 
-]) [25] (latex_out/main.lof)
+]) [28] (latex_out/main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [26
+ [29
 
 ] (latex_out/main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [27
+ [30
 
 ] (latex_out/main.aux) ) 
 Here is how much of TeX's memory you used:
- 3238 strings out of 478488
- 50293 string characters out of 5850965
- 357067 words of memory out of 5000000
- 21807 multiletter control sequences out of 15000+600000
+ 3253 strings out of 478488
+ 50806 string characters out of 5850965
+ 388067 words of memory out of 5000000
+ 21815 multiletter control sequences out of 15000+600000
  532000 words of font info for 108 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 55i,11n,62p,468b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,12n,62p,468b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on latex_out/main.dvi (31 pages, 90392 bytes).
+Output written on latex_out/main.dvi (35 pages, 109464 bytes).

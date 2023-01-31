@@ -5,7 +5,10 @@
 \contentsline {table}{\numberline {4.1}{\ignorespaces 推定を行う雰囲気}}{11}{}%
 \addvspace {10\jsc@mpt }
 \contentsline {table}{\numberline {5.1}{\ignorespaces 特徴量として採用する統計量と算出式}}{16}{}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces 遺伝的アルゴリズムの設定}}{18}{}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces 統計量を用いた特徴量}}{18}{}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces 比較量を用いた特徴量}}{19}{}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces 学習の設定}}{20}{}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces 遺伝的アルゴリズムの設定}}{21}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {table}{\numberline {6.1}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{20}{}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{23}{}%
 \addvspace {10\jsc@mpt }

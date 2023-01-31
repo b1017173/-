@@ -1,0 +1,39 @@
+\begin{table}[htpb]
+  \caption{統計量を用いた特徴量}
+  \centering
+  \begin{tabular}{|c|c|c|}
+      \hline
+      特徴量番号 & 特徴量 & 算出式 \\\hline\hline
+      $1_x$ & \multirow{6}{*}{話者$x$の発話集合に関する特徴量} & $sum(S^d_{stx})$ \\ \cline{1-1}\cline{3-3}
+      $2_x$ & & $mean(S^d_{stx})$ \\ \cline{1-1}\cline{3-3}
+      $3_x$ & & $std(S^d_{stx})$ \\ \cline{1-1}\cline{3-3}
+      $4_x$ & & $max(S^d_{stx})$ \\ \cline{1-1}\cline{3-3}
+      $5_x$ & & $size(S^d_{stx})$ \\ \cline{1-1}\cline{3-3}
+      $6_x$ & & $share(S^d_{stx})$ \\ \hline
+      $7_x$ & \multirow{6}{*}{話者$x$の同時発話集合に関する特徴量} & $sum(S^d_{ssx})$ \\ \cline{1-1}\cline{3-3}
+      $8_x$ & & $mean(S^d_{ssx})$ \\ \cline{1-1}\cline{3-3}
+      $9_x$ & & $std(S^d_{ssx})$ \\ \cline{1-1}\cline{3-3}
+      $10_x$ & & $max(S^d_{ssx})$ \\ \cline{1-1}\cline{3-3}
+      $11_x$ & & $size(S^d_{ssx})$ \\ \cline{1-1}\cline{3-3}
+      $12_x$ & & $share(S^d_{ssx})$ \\ \hline
+      $13$ & \multirow{6}{*}{非発話集合に関する特徴量} & $sum(S^d_{ns})$ \\ \cline{1-1}\cline{3-3}
+      $14$ & & $mean(S^d_{ns})$ \\ \cline{1-1}\cline{3-3}
+      $15$ & & $std(S^d_{ns})$ \\ \cline{1-1}\cline{3-3}
+      $16$ & & $max(S^d_{ns})$ \\ \cline{1-1}\cline{3-3}
+      $17$ & & $size(S^d_{ns})$ \\ \cline{1-1}\cline{3-3}
+      $18$ & & $share(S^d_{ns})$ \\ \hline
+      $13$ & \multirow{6}{*}{全発話集合に関する特徴量} & $sum(S^d_{us})$ \\ \cline{1-1}\cline{3-3}
+      $14$ & & $mean(S^d_{us})$ \\ \cline{1-1}\cline{3-3}
+      $15$ & & $std(S^d_{us})$ \\ \cline{1-1}\cline{3-3}
+      $16$ & & $max(S^d_{us})$ \\ \cline{1-1}\cline{3-3}
+      $17$ & & $size(S^d_{us})$ \\ \cline{1-1}\cline{3-3}
+      $18$ & & $share(S^d_{us})$ \\ \hline
+      $13$ & \multirow{6}{*}{全集合に関する特徴量} & $sum(S^d_{as})$ \\ \cline{1-1}\cline{3-3}
+      $14$ & & $mean(S^d_{as})$ \\ \cline{1-1}\cline{3-3}
+      $15$ & & $std(S^d_{as})$ \\ \cline{1-1}\cline{3-3}
+      $16$ & & $max(S^d_{as})$ \\ \cline{1-1}\cline{3-3}
+      $17$ & & $size(S^d_{as})$ \\ \cline{1-1}\cline{3-3}
+      $18$ & & $share(S^d_{as})$ \\ \hline
+  \end{tabular}
+  \label{tab:features_with_statistics}
+\end{table}
