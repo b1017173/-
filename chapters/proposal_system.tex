@@ -30,7 +30,7 @@
 
 本モジュールはDiscordで開催される作業通話を対象としており，作業通話の音声をBotによって収集し対話雰囲気の推定を行う．
 
-\subsection{対話雰囲気推定モジュールで収集するデータ}
+\subsection{対話雰囲気推定モジュールで収集するデータ\label{item:estimation_module_collection_data}}
 
 本モジュールは，対話雰囲気推定のために音声データの収集を行う．
 その際には，第\ref{sec:related_researchs}章で述べた豊田らの手法を参考に，ユーザのプライバシーの担保や第\ref{sec:develop_estimation_model}章で述べる対話雰囲気推定モデルの構築における学習コストの低減を目的に限られた非言語情報のみを対象とする．
@@ -38,7 +38,7 @@
 作業通話のメタデータとしては，参加者のユーザ情報，開催時間情報が収集対象である．
 また，収集した発話時間情報は特徴量として変換され対話雰囲気推定モデルの入力データとして対話雰囲気の推定に利用する．
 
-\subsection{対話雰囲気推定モジュールで推定する雰囲気\label{node:estimated_atmosphere}}
+\subsection{対話雰囲気推定モジュールで推定する雰囲気\label{item:estimated_atmosphere}}
 
 本モジュールで推定を行う対話雰囲気は「盛り上がり」，「真面目さ」，「明るさ」，「くつろぎ」の四つである（表\ref{tab:estimation_definition}）．
 本研究のそれぞれの定義について述べる．

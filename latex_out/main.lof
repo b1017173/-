@@ -10,4 +10,9 @@
 \addvspace {10\jsc@mpt }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces 対話データにおける発話の例}}{15}{}%
 \addvspace {10\jsc@mpt }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces ベースモデルの学習過程}}{27}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 「盛り上がり」話者数4名のモデル学習過程}}{28}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 「真面目さ」話者数4名のモデル学習過程}}{28}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 「明るさ」話者数4名のモデル学習過程}}{29}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 「くつろぎ」話者数4名のモデル学習過程}}{29}{}%
 \addvspace {10\jsc@mpt }
