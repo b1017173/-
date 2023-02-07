@@ -5,14 +5,14 @@
 \addvspace {10\jsc@mpt }
 \addvspace {10\jsc@mpt }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces システムイメージ}}{10}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 作業嗜好の可視化イメージ}}{12}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 作業嗜好の可視化イメージ}}{13}{}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces 生成する投稿のイメージ}}{13}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 対話データにおける発話の例}}{15}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 対話データにおける発話の例}}{16}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces ベースモデルの学習過程}}{27}{}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces 「盛り上がり」話者数4名のモデル学習過程}}{28}{}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces 「真面目さ」話者数4名のモデル学習過程}}{28}{}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces 「明るさ」話者数4名のモデル学習過程}}{29}{}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces 「くつろぎ」話者数4名のモデル学習過程}}{29}{}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces ベースモデルの学習過程}}{28}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 「盛り上がり」話者数4名のモデル学習過程}}{29}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 「真面目さ」話者数4名のモデル学習過程}}{29}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 「明るさ」話者数4名のモデル学習過程}}{30}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 「くつろぎ」話者数4名のモデル学習過程}}{30}{}%
 \addvspace {10\jsc@mpt }
