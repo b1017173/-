@@ -4,18 +4,18 @@
 \addvspace {10\jsc@mpt }
 \contentsline {table}{\numberline {4.1}{\ignorespaces 推定を行う雰囲気}}{11}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {table}{\numberline {5.1}{\ignorespaces 特徴量として採用する統計量と算出式}}{16}{}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces 統計量を用いた特徴量}}{18}{}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces 比較量を用いた特徴量}}{19}{}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces 学習の設定}}{20}{}%
-\contentsline {table}{\numberline {5.5}{\ignorespaces 遺伝的アルゴリズムの設定}}{21}{}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces 特徴量として採用する統計量と算出式}}{17}{}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces 統計量を用いた特徴量}}{19}{}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces 比較量を用いた特徴量}}{20}{}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces 学習の設定}}{21}{}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces 遺伝的アルゴリズムの設定}}{22}{}%
 \addvspace {10\jsc@mpt }
-\contentsline {table}{\numberline {6.1}{\ignorespaces 「盛り上がり」を対象とした特徴量選択を用いない学習の結果}}{23}{}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces 「真面目さ」を対象とした特徴量選択を用いない学習の結果}}{23}{}%
-\contentsline {table}{\numberline {6.3}{\ignorespaces 「明るさ」を対象とした特徴量選択を用いない学習の結果}}{24}{}%
-\contentsline {table}{\numberline {6.4}{\ignorespaces 「くつろぎ」を対象とした特徴量選択を用いない学習の結果}}{24}{}%
-\contentsline {table}{\numberline {6.5}{\ignorespaces ベースモデルの設定値}}{25}{}%
-\contentsline {table}{\numberline {6.6}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{26}{}%
-\contentsline {table}{\numberline {6.7}{\ignorespaces 特徴量選択前後のモデル正答率のt検定}}{27}{}%
-\contentsline {table}{\numberline {6.8}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{30}{}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces 「盛り上がり」を対象とした特徴量選択を用いない学習の結果}}{24}{}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces 「真面目さ」を対象とした特徴量選択を用いない学習の結果}}{24}{}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces 「明るさ」を対象とした特徴量選択を用いない学習の結果}}{25}{}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces 「くつろぎ」を対象とした特徴量選択を用いない学習の結果}}{25}{}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces ベースモデルの設定値}}{26}{}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{27}{}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces 特徴量選択前後のモデル正答率のt検定}}{28}{}%
+\contentsline {table}{\numberline {6.8}{\ignorespaces 特徴量選択を用いたモデルの学習結果}}{31}{}%
 \addvspace {10\jsc@mpt }
